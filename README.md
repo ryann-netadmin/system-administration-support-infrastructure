@@ -25,7 +25,7 @@ Ce projet présente le déploiement et l'administration d'une infrastructure d'e
 
 ## 🧪 Validation & Tests (Preuves de fonctionnement)
 
-* **Gestion des Identités :** Validation de la jonction au domaine et de l'application correcte des GPO sur le parc.
+* **Gestion des Identités :** Serveur Windows 2022.
 <p align="center">
   <img src="imgs/winserv.png" alt="Topologie Réseau Complète" width="95%">
 </p>
