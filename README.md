@@ -26,10 +26,30 @@ Ce projet présente le déploiement et l'administration d'une infrastructure d'e
 ## 🧪 Validation & Tests (Preuves de fonctionnement)
 
 * **Gestion des Identités :** Validation de la jonction au domaine et de l'application correcte des GPO sur le parc.
+<p align="center">
+  <img src="imgs/winserv.png" alt="Topologie Réseau Complète" width="95%">
+</p>
+<p align="center">
+  <img src="imgs/.png" alt="Topologie Réseau Complète" width="95%">
+</p>
 * **Supervision :** Dashboard Zabbix opérationnel affichant l'état de santé des services critiques du serveur Windows.
-* **Inventaire :** Remontée automatique des informations systèmes dans l'interface GLPI.
+<p align="center">
+  <img src="imgs/dashboard_zabbix.png" alt="Topologie Réseau Complète" width="95%">
+</p>
+<p align="center">
+  <img src="imgs/zabbix.png" alt="Topologie Réseau Complète" width="95%">
+</p>
+* **Inventaire :** Remontée automatique des informations systèmes dans l'interface GLPI et gestion de tickets.
+<p align="center">
+  <img src="imgs/dashboard_glpi.png" alt="Topologie Réseau Complète" width="95%">
+</p>
+<p align="center">
+  <img src="imgs/ticketing.png" alt="Topologie Réseau Complète" width="95%">
+</p>
 * **Télémaintenance :** Session distante établie et stable entre l'hôte (Ubuntu) et le contrôleur de domaine (VM Windows).
-
+<p align="center">
+  <img src="imgs/teamviewer.png" alt="Topologie Réseau Complète" width="95%">
+</p>
 ## ⚙️ Documentation des Services
 
 Les procédures d'installation et les fichiers de configuration (Docker Compose, scripts AD) sont disponibles dans le dossier `/docs` et `/scripts`.
