@@ -56,7 +56,7 @@ Ce projet présente le déploiement et l'administration d'une infrastructure d'e
 
 
 ```bash
-## ⚙️ Documentation des Services
+# ⚙️ Documentation des Services
 
 Les procédures d'installation et les fichiers de configuration (Docker Compose, scripts AD) sont disponibles dans le dossier `/docs` et `/scripts`.
 
