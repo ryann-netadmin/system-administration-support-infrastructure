@@ -55,15 +55,3 @@ Ce projet présente le déploiement et l'administration d'une infrastructure d'e
 </p>
 
 
-```bash
-# ⚙️ Documentation des Services
-
-Les procédures d'installation et les fichiers de configuration (Docker Compose, scripts AD) sont disponibles dans le dossier `/docs` et `/scripts`.
-
-<details>
-<summary>💻 Cliquez pour accéder à la documentation et aux configurations</summary>
-# Exemple de stack Docker pour GLPI + Zabbix
-docker-compose up -d
-
-# Vérification du statut des conteneurs
-docker ps
